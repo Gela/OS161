@@ -1,0 +1,109 @@
+commit 3921f59764fb3e6fba924a080af12f5282abdb5c
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Fri Feb 15 10:45:00 2013 -0500
+
+    Refactoring spinner and yielder code.
+
+commit bad912f193cc3b548d881afff35dc771778c0d24
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Wed Feb 13 17:49:40 2013 -0500
+
+    New.
+
+commit c6bc0dafc560b34ea8dc27a9530281d76a0a459a
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Wed Feb 13 17:40:31 2013 -0500
+
+    Fixes to driver code; make Eclipse shut up in thread.c.
+
+commit f5f7f22a7ea1cc0e2dc417f1c6b997292330a7ab
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Fri Feb 8 11:10:24 2013 -0500
+
+    Adding gitignore to base distribution.
+
+commit 4d60167b322dd0c813cacd000c435c925c3e6912
+Author: ops-class.org Student <trinity@zion.(none)>
+Date:   Wed Jan 23 19:55:17 2013 -0500
+
+    Fixed a bug where unused was set but not being used
+
+commit 56008a84adaa77b87d05ac4e1248e6c6fcc4c8a9
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Fri Mar 23 22:22:01 2012 -0400
+
+    Adding file only test.
+
+commit 4de6391cb5b1ed5ab7c2042a28c3c2c539661b71
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Fri Mar 23 22:20:57 2012 -0400
+
+    Adding fileonlytest.
+
+commit 25466b88a018e9078e79df3c69383b56e61a8d52
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Mon Mar 5 14:53:27 2012 -0500
+
+    Adding menu items for synch testing.
+
+commit 633f6a8da3b342a4fc4fd6f54e2a0c89b5796c39
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Mon Mar 5 14:48:05 2012 -0500
+
+    New ASST1 test.
+
+commit 49f06d9aa92b231c1ddb944de6cab16170a46eae
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Mon Mar 5 14:42:54 2012 -0500
+
+    New CV test.
+
+commit 02a93045742e3cda0be0598710edfdc4af1517f1
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Tue Feb 28 13:57:43 2012 -0500
+
+    Adding default and optional scheduler.
+
+commit 25742757286d22e4b8cab5be4b432e85006bada1
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Mon Feb 20 15:17:09 2012 -0500
+
+    Late ASST1 fixes.
+    1) Cleanup code for stoplight and whalemating.
+    2) Menu fix to put drivers in the right place and fix ASST0 build.
+
+commit 80564c203db20491940a3849edfac44f6e422b71
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Tue Feb 14 14:49:17 2012 -0500
+
+    Fixing root problem.
+
+commit d60e094b922e425e0c05351a13f6dac5ada722c6
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Mon Feb 13 16:22:09 2012 -0500
+
+    Adding rwlock templates and problem solution initialization code.
+
+commit cc722f8b6b183eb51df275ea72e914247ec5e0ca
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Thu Feb 9 12:35:35 2012 -0500
+
+    ASST1 changes.
+
+commit 8c0b79c9f7f7597e5ed09013bfb10198fa3f9484
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Tue Jan 24 17:38:02 2012 -0500
+
+    Fix build failure in psort.c
+
+commit 9d5a8350e71705a4e4356f3680a36d2961aaf9d7
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Tue Jan 24 17:33:16 2012 -0500
+
+    Fix default path to root directory.
+
+commit 82b65d2303b7274a324e517c1b88018b84e7c10b
+Author: Geoffrey Challen <challen@buffalo.edu>
+Date:   Tue Jan 24 17:32:55 2012 -0500
+
+    Init.
