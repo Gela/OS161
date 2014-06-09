@@ -71,7 +71,7 @@ they are really about manipulation of file descriptors, or process-specific file
     •	Eessentially nothing about the current thread's userspace state can be trusted if it has suffered a fatal exception. It must be taken off the processor in as judicious a manner as possible, which is simply done by an explicit call to sys_exit() with exit code 1.
 
 
-#### Virtual Memory—
+#### Virtual Memory
 
 This implementation includes virtual memory, address translation, TLB management and page replacement.
 It does not support swapping yet. After implementing everything the kernel should be able to run forever
@@ -80,7 +80,9 @@ without running out of memory.
 In order to configure OS161 and run the kernel, follow the steps in
 [http://www.ops-class.org/asst/0](http://www.ops-class.org/asst/0)
 
-Error Handling
+
+#### Error Handling
+
 The man pages in the OS/161 distribution contain a description of the error return values that you must return.
 If there are conditions that can happen that are not listed in the man page, the most appropriate error code
 from kern/include/kern/errno.h is returned. 
